@@ -12,7 +12,7 @@ class IntroPage2 extends StatelessWidget {
         width: genislik,
         height: yukseklik,
         child: Image(
-          image: AssetImage('assets/görsel4.png'),
+          image: AssetImage('assets/görsel3.png'),
           fit: BoxFit.contain,
         ),
       ),
